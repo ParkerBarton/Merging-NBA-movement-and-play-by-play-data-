@@ -1,4 +1,5 @@
 ###NBA_SportVU FUNCTIONS
+#credit for these functions goes to rajshah4
 
 library(RCurl)
 library(jsonlite)
