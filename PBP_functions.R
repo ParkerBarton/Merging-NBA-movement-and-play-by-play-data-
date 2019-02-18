@@ -1,3 +1,4 @@
+#thanks to James Curley for these functions
 ###NBA_SportVU FUNCTIONS
 
 library(RCurl)
